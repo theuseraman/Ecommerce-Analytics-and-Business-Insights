@@ -45,11 +45,11 @@ Full KPI breakdown, category/segment analysis, and the 12-question business matr
 ## 📁 Repository Structure
 
 ```
-├── README.md                              # This file
-├── requirements.txt                       # Python dependencies
-├── ecommerce_analysis.ipynb               # Full code: cleaning, validation, EDA, KPIs
-├── Project_Report.docx                    # Detailed report with dashboard screenshots
-├── cleaned_ecommerce_data.xlsx            # Cleaned dataset used for analysis
+├── README.md                                         # This file
+├── requirements.txt                                  # Python dependencies
+├── Aman_Singh_ecommerce_Analysis.ipynb               # Full code: cleaning, validation, EDA, KPIs
+├── Aman_Singh_ecommerce_Analysis_Report.docx         # Detailed report with dashboard screenshots
+├── cleaned_ecommerce_data.xlsx                       # Cleaned dataset used for analysis
 └── dashboard/
     ├── dashboard_page1_executive_overview.png
     ├── dashboard_page2_sales_product.png
@@ -64,7 +64,7 @@ Full KPI breakdown, category/segment analysis, and the 12-question business matr
    pip install -r requirements.txt
    ```
 3. Make sure `cleaned_ecommerce_data.xlsx` is in the same folder as the notebook
-4. Open and run `ecommerce_analysis.ipynb` in Jupyter Notebook / JupyterLab / VS Code
+4. Open and run `Aman_Singh_ecommerce_Analysis.ipynb` in Jupyter Notebook / JupyterLab / VS Code
 
 ## 📊 Dashboard
 
@@ -81,4 +81,4 @@ A 3-page executive dashboard is included under `/dashboard`:
 4. Use city-category revenue patterns to guide regional warehouse and marketing allocation.
 
 ---
-*Submitted as part of the BharatCares Data Analytics Internship final project.*
+*Developed as part of the BharatCares Data Analytics Internship final project.*
